@@ -1,3 +1,0 @@
-# .github
-
-hyundai-blog
